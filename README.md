@@ -40,6 +40,6 @@ I'm currently looking for an **internship as a Data Analyst, BI Analyst, or Juni
 - Google Advanced Data Analytics Professional Certificate
 
 ## 📫 Let's connect
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:nagakshay41@gmail.com)
+- 📧 Email: [nagakshay41@gmail.com](mailto:nagakshay41@gmail.com)
 
 *Open to internships and entry-level roles in data analytics and business intelligence.*
